@@ -1,0 +1,5 @@
+# Add the following lines in the .bashrc
+
+alias home="cd storage/shared"
+alias start="./shell-scripts/.start.sh"
+alias desktop="./shell-script/.desktop.sh"
