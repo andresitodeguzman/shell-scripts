@@ -3,3 +3,4 @@
 alias home="cd storage/shared"
 alias start="./shell-scripts/.start.sh"
 alias desktop="./shell-script/.desktop.sh"
+alias remote="./shell-script/.ssh.sh"
